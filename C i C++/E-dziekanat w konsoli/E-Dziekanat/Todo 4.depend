@@ -1,0 +1,371 @@
+# depslib dependency file v1.0
+1547903635 source:c:\users\seaha\desktop\allah is gay\todo 4\main.cpp
+	"Application.h"
+
+1547909060 c:\users\seaha\desktop\allah is gay\todo 4\include\student.h
+	<string>
+	<iostream>
+
+1546569956 source:c:\users\seaha\desktop\allah is gay\todo 4\src\interfejs.cpp
+	"Interfejs.h"
+
+1547656070 c:\users\seaha\desktop\allah is gay\todo 4\include\interfejs.h
+
+1547909060 source:c:\users\seaha\desktop\allah is gay\todo 4\src\student.cpp
+	"Student.h"
+	<cstdlib>
+	<iostream>
+
+1547908064 source:c:\users\seaha\desktop\allah is gay\todo 4\src\menus.cpp
+	"MenuS.h"
+	"GFX.h"
+
+1547907618 c:\users\seaha\desktop\allah is gay\todo 4\include\menus.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+	"StudentsArray.h"
+
+1547893343 source:c:\users\seaha\desktop\allah is gay\todo 4\src\gfx.cpp
+	"GFX.h"
+
+1547893343 c:\users\seaha\desktop\allah is gay\todo 4\include\gfx.h
+	<cstdlib>
+	<iostream>
+
+1547903635 source:c:\users\seaha\desktop\allah is gay\todo 4\src\menua.cpp
+	"MenuA.h"
+
+1547893343 c:\users\seaha\desktop\allah is gay\todo 4\include\menua.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+
+1547906936 c:\users\seaha\desktop\allah is gay\todo 4\include\application.h
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	"Student.h"
+	"GFX.h"
+	"MenuA.h"
+	"MenuS.h"
+	"StudentsArray.h"
+
+1547908610 source:c:\users\seaha\desktop\allah is gay\todo 4\src\application.cpp
+	"Application.h"
+
+1547908064 c:\users\seaha\desktop\allah is gay\todo 4\include\studentsarray.h
+	"Student.h"
+
+1547909060 source:c:\users\seaha\desktop\allah is gay\todo 4\src\studentsarray.cpp
+	"StudentsArray.h"
+
+1547903635 source:c:\users\seaha\desktop\todo 6\main.cpp
+	"Application.h"
+
+1548025458 c:\users\seaha\desktop\todo 6\include\application.h
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	"Student.h"
+	"GFX.h"
+	"MenuA.h"
+	"MenuS.h"
+	"StudentsArray.h"
+
+1548173056 c:\users\seaha\desktop\todo 6\include\student.h
+	<string>
+	<iostream>
+
+1547893343 c:\users\seaha\desktop\todo 6\include\gfx.h
+	<cstdlib>
+	<iostream>
+
+1547893343 c:\users\seaha\desktop\todo 6\include\menua.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+
+1548097047 c:\users\seaha\desktop\todo 6\include\menus.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+	"StudentsArray.h"
+
+1548024793 c:\users\seaha\desktop\todo 6\include\studentsarray.h
+	"Student.h"
+
+1548027286 source:c:\users\seaha\desktop\todo 6\src\application.cpp
+	"Application.h"
+
+1548097021 source:c:\users\seaha\desktop\todo 6\src\gfx.cpp
+	"GFX.h"
+
+1548026813 source:c:\users\seaha\desktop\todo 6\src\menua.cpp
+	"MenuA.h"
+
+1548097021 source:c:\users\seaha\desktop\todo 6\src\menus.cpp
+	"MenuS.h"
+	"GFX.h"
+
+1548097056 source:c:\users\seaha\desktop\todo 6\src\student.cpp
+	"Student.h"
+	<cstdlib>
+	<iostream>
+
+1548027073 source:c:\users\seaha\desktop\todo 6\src\studentsarray.cpp
+	"StudentsArray.h"
+
+1548019853 source:c:\users\seaha\desktop\todo 6\src\elektronika.cpp
+	"StudentsArray.h"
+
+1548019297 c:\users\seaha\desktop\todo 6\include\elektronika.h
+
+1548019398 source:c:\users\seaha\desktop\todo 6\src\informatyka.cpp
+	"StudentsArray.h"
+
+1548021246 source:c:\users\seaha\desktop\todo 6\src\studentparray.cpp
+
+1547903635 source:c:\users\seaha\desktop\todo 7\main.cpp
+	"Application.h"
+
+1548441494 c:\users\seaha\desktop\todo 7\include\application.h
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<iostream>
+	"Student.h"
+	"GFX.h"
+	"MenuA.h"
+	"MenuS.h"
+	"StudentsArray.h"
+
+1548441921 c:\users\seaha\desktop\todo 7\include\student.h
+	<string>
+	<vector>
+	<iostream>
+	"Osoba.h"
+
+1548441440 c:\users\seaha\desktop\todo 7\include\osoba.h
+	<string>
+	<memory>
+
+1548440260 c:\users\seaha\desktop\todo 7\include\gfx.h
+	<cstdlib>
+	<iostream>
+
+1547893343 c:\users\seaha\desktop\todo 7\include\menua.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+
+1548440260 c:\users\seaha\desktop\todo 7\include\menus.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+	"StudentsArray.h"
+
+1548441440 source:c:\users\seaha\desktop\todo 7\src\application.cpp
+	"Application.h"
+	"Student.h"
+	"Nauczyciel.h"
+
+1548441440 source:c:\users\seaha\desktop\todo 7\src\gfx.cpp
+	"GFX.h"
+
+1548026813 source:c:\users\seaha\desktop\todo 7\src\menua.cpp
+	"MenuA.h"
+
+1548441935 source:c:\users\seaha\desktop\todo 7\src\student.cpp
+	"Student.h"
+	"GFX.h"
+	<cstdlib>
+	<iostream>
+
+1548441664 c:\users\seaha\desktop\todo 7\include\studentsarray.h
+	"Osoba.h"
+
+1548440323 source:c:\users\seaha\desktop\todo 7\src\menus.cpp
+	"MenuS.h"
+	"GFX.h"
+
+1548441664 source:c:\users\seaha\desktop\todo 7\src\nauczyciel.cpp
+	"Nauczyciel.h"
+	"Student.h"
+	"StudentsArray.h"
+	"GFX.h"
+	<iostream>
+
+1548441441 c:\users\seaha\desktop\todo 7\include\nauczyciel.h
+	"Osoba.h"
+	<vector>
+
+1548441441 source:c:\users\seaha\desktop\todo 7\src\osoba.cpp
+	"Osoba.h"
+	<iostream>
+
+1548441664 source:c:\users\seaha\desktop\todo 7\src\studentsarray.cpp
+	"StudentsArray.h"
+	<iostream>
+
+1547903636 source:c:\users\msi\desktop\todo 7\main.cpp
+	"Application.h"
+
+1549384360 c:\users\msi\desktop\todo 7\include\application.h
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<iostream>
+	"Student.h"
+	"GFX.h"
+	"MenuA.h"
+	"MenuS.h"
+	"StudentsArray.h"
+
+1548673870 c:\users\msi\desktop\todo 7\include\student.h
+	<string>
+	<vector>
+	<iostream>
+	"Osoba.h"
+
+1549384076 c:\users\msi\desktop\todo 7\include\osoba.h
+	<string>
+	<memory>
+
+1548440262 c:\users\msi\desktop\todo 7\include\gfx.h
+	<cstdlib>
+	<iostream>
+
+1547893344 c:\users\msi\desktop\todo 7\include\menua.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+
+1548440262 c:\users\msi\desktop\todo 7\include\menus.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+	"StudentsArray.h"
+
+1548441666 c:\users\msi\desktop\todo 7\include\studentsarray.h
+	"Osoba.h"
+
+1549388008 source:c:\users\msi\desktop\todo 7\src\application.cpp
+	"Application.h"
+	"Student.h"
+	"Nauczyciel.h"
+
+1548673872 c:\users\msi\desktop\todo 7\include\nauczyciel.h
+	"Osoba.h"
+	<vector>
+
+1548672558 source:c:\users\msi\desktop\todo 7\src\gfx.cpp
+	"GFX.h"
+
+1548026814 source:c:\users\msi\desktop\todo 7\src\menua.cpp
+	"MenuA.h"
+
+1548440324 source:c:\users\msi\desktop\todo 7\src\menus.cpp
+	"MenuS.h"
+	"GFX.h"
+
+1549384076 source:c:\users\msi\desktop\todo 7\src\nauczyciel.cpp
+	"Nauczyciel.h"
+	"Student.h"
+	"StudentsArray.h"
+	"GFX.h"
+	<iostream>
+
+1549384076 source:c:\users\msi\desktop\todo 7\src\osoba.cpp
+	"Osoba.h"
+	<iostream>
+
+1549384360 source:c:\users\msi\desktop\todo 7\src\student.cpp
+	"Student.h"
+	"GFX.h"
+	<cstdlib>
+	<iostream>
+
+1548441666 source:c:\users\msi\desktop\todo 7\src\studentsarray.cpp
+	"StudentsArray.h"
+	<iostream>
+
+1561899316 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\main.cpp
+	"Application.h"
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\application.h
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<iostream>
+	"Student.h"
+	"GFX.h"
+	"MenuA.h"
+	"MenuS.h"
+	"StudentsArray.h"
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\student.h
+	<string>
+	<vector>
+	<iostream>
+	"Osoba.h"
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\osoba.h
+	<string>
+	<memory>
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\gfx.h
+	<cstdlib>
+	<iostream>
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\menua.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\menus.h
+	<cstdlib>
+	<iostream>
+	"Student.h"
+	"StudentsArray.h"
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\studentsarray.h
+	"Osoba.h"
+
+1593880944 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\application.cpp
+	"Application.h"
+	"Student.h"
+	"Nauczyciel.h"
+
+1561899316 c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\include\nauczyciel.h
+	"Osoba.h"
+	<vector>
+
+1593877064 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\gfx.cpp
+	"GFX.h"
+
+1561899316 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\menus.cpp
+	"MenuS.h"
+	"GFX.h"
+
+1593880870 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\nauczyciel.cpp
+	"Nauczyciel.h"
+	"Student.h"
+	"StudentsArray.h"
+	"GFX.h"
+	<iostream>
+
+1561899316 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\osoba.cpp
+	"Osoba.h"
+	<iostream>
+
+1593879912 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\student.cpp
+	"Student.h"
+	"GFX.h"
+	<cstdlib>
+	<iostream>
+
+1561899316 source:c:\users\kamil\onedrive\desktop\cpp\todorov program\todo 7\src\studentsarray.cpp
+	"StudentsArray.h"
+	<iostream>
+
