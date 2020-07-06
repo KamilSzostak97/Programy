@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Todo 4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Todo 4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Todo 4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Application.h" />
+		<Unit filename="include/GFX.h" />
+		<Unit filename="include/MenuS.h" />
+		<Unit filename="include/Nauczyciel.h" />
+		<Unit filename="include/Osoba.h" />
+		<Unit filename="include/Student.h" />
+		<Unit filename="include/StudentsArray.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Application.cpp" />
+		<Unit filename="src/GFX.cpp" />
+		<Unit filename="src/MenuS.cpp" />
+		<Unit filename="src/Nauczyciel.cpp" />
+		<Unit filename="src/Osoba.cpp" />
+		<Unit filename="src/Student.cpp" />
+		<Unit filename="src/StudentsArray.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
